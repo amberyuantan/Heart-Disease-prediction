@@ -53,6 +53,7 @@ This project aims to predict the likelihood of heart disease based on health ind
 
 ### Baseline Model
 - **Accuracy**: 91%
+- **Cross Validation Score**: 98.13%
 - **Strategy**: Predicted the majority class for all samples.
 
 ### Random Forest Model
