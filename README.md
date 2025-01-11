@@ -42,10 +42,7 @@ This project aims to predict the likelihood of heart disease based on health ind
 ### Model Evaluation
 - Metrics:
   - Accuracy
-  - ROC-AUC Score
-  - Classification Report
-  - Confusion Matrix
-- Cross-validation using Repeated Stratified K-Fold for robust performance estimation.
+  - Cross Validation Score
 
 ---
 
@@ -53,20 +50,12 @@ This project aims to predict the likelihood of heart disease based on health ind
 
 ### Baseline Model
 - **Accuracy**: 91%
-- **Cross Validation Score**: 98.13%
 - **Strategy**: Predicted the majority class for all samples.
 
 ### Random Forest Model
-#### Original Data
-- **Cross-Validation ROC-AUC**: ~0.94
-- **Key Metrics**:
-  - Precision: High for both classes
-  - Recall: Balanced between classes
-
 #### Resampled Data
-- **Cross-Validation ROC-AUC**: ~0.96
+- **Cross-Validation ROC-AUC**: ~0.98
 - **Key Metrics**:
-  - Improved recall for the minority class
   - Balanced precision and recall
 
 
