@@ -1,6 +1,6 @@
 # 🩺 Heart Disease Prediction with Random Forest
 
-This project aims to predict the likelihood of heart disease based on health indicators using machine learning techniques. The dataset originates from the **CDC Behavioral Risk Factor Surveillance System (BRFSS)**, which collects annual health-related data. The primary focus is on using **Random Forest** for classification, complemented by data preprocessing, visualization, and performance evaluation.
+This project aims to predict the likelihood of heart disease based on health indicators using machine learning techniques. The dataset originates from the **CDC**, which collects annual health-related data. The primary focus is on using **Random Forest** for classification, complemented by data preprocessing, visualization, and performance evaluation.
 
 ---
 
